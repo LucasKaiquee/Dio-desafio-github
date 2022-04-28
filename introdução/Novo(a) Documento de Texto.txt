@@ -1,1 +1,1 @@
-teste
+Primeiro repositório, criando e organizando para colocar no github através do git.  
